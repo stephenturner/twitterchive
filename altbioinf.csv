@@ -1,0 +1,499 @@
+"","id","datetime","user","text","date","hour"
+"1","352324531974709248",2013-07-03 03:14:00,"BioMickWatson","After my shamtools tweet yesterday, I'm going to start a new hashtag: #altbioinf",2013-07-03,3
+"2","352324621594411008",2013-07-03 03:15:00,"BioMickWatson","Shamtools: software that pretends to do everything Samtools does, but actually does nothing #altbioinf",2013-07-03,3
+"3","352324778570420224",2013-07-03 03:15:00,"BioMickWatson","StopThat: useful tool that suggests an alternative spliced aligner every time someone tries to use TopHat #altbioinf",2013-07-03,3
+"4","352325125787500544",2013-07-03 03:17:00,"BioMickWatson","BEDRules: software that encourages you to go to bed every time you try and figure out which command in BEDTools you need #altbioinf",2013-07-03,3
+"5","352325389701496832",2013-07-03 03:18:00,"BioMickWatson","NWA: plays hip-hop instead of running your alignments #altbioinf",2013-07-03,3
+"6","352329844966703104",2013-07-03 03:35:00,"BioMickWatson","Smellvet: De Bruijn graph assembler that uses so much memory that your RAM circuits burn out, producing a curious smell #altbioinf",2013-07-03,3
+"7","352330068619575296",2013-07-03 03:36:00,"peri4n","@BioMickWatson NoTie: the aligner that just prints NO #altbioinf",2013-07-03,3
+"8","352331022563684352",2013-07-03 03:40:00,"BioMickWatson","RT @peri4n: @BioMickWatson NoTie: the aligner that just prints NO #altbioinf",2013-07-03,3
+"9","352334739476197376",2013-07-03 03:55:00,"froggleston","@peri4n @BioMickWatson ABySS: the thing you're staring into when you realise that you bought a SOLiD #altbioinf #ohsnap",2013-07-03,3
+"10","352335344424849408",2013-07-03 03:57:00,"BioMickWatson","RT @froggleston: @peri4n @BioMickWatson ABySS: the thing you're staring into when you realise that you bought a SOLiD #altbioinf #ohsnap",2013-07-03,3
+"11","352335824618139648",2013-07-03 03:59:00,"froggleston","Celery: vegetable genome assembler #altbioinf",2013-07-03,3
+"12","352336111550472192",2013-07-03 04:00:00,"BioMickWatson","EdgeY: this is how you feel when this software identifies ALL of your genes as differentially expressed p<0.0000000000001 #altbioinf",2013-07-03,4
+"13","352336370552934400",2013-07-03 04:01:00,"BioMickWatson","ELAND-that-time-forgot: the name says it all #altbioinf",2013-07-03,4
+"14","352337698196955136",2013-07-03 04:07:00,"pjacock","RT @BioMickWatson: After my shamtools tweet yesterday, I'm going to start a new hashtag: #altbioinf",2013-07-03,4
+"15","352337920184696832",2013-07-03 04:08:00,"DunhamReal","Chaos: Visualisation of hiC data in Circos #altbioinf",2013-07-03,4
+"16","352338320451309568",2013-07-03 04:09:00,"PeteHaitch","Beer-seq: what you feel like doing when resolving file format issues #altbioinf",2013-07-03,4
+"17","352339196737884160",2013-07-03 04:13:00,"froggleston","SoapBonobo: Lathering up matriarchal sex-obsessed apes. Why? No idea. #altbioinf",2013-07-03,4
+"18","352339257785991168",2013-07-03 04:13:00,"BioMickWatson","SASHA: instead of aligning your sequences, this tool plays an ultra-cool progressive house DJ set #altbioinf",2013-07-03,4
+"19","352340967375904768",2013-07-03 04:20:00,"BioMickWatson","BioPerl: what you turn to after 4 days of trying to get BioPython to work ;) #altbioinf",2013-07-03,4
+"20","352341485024313344",2013-07-03 04:22:00,"ynancy","RT @BioMickWatson: BioPerl: what you turn to after 4 days of trying to get BioPython to work ;) #altbioinf",2013-07-03,4
+"21","352341596425035776",2013-07-03 04:22:00,"DunhamReal","Cytescape: fantasy network generator #altbioinf",2013-07-03,4
+"22","352343841686294528",2013-07-03 04:31:00,"4a6a5a","RT @BioMickWatson: NWA: plays hip-hop instead of running your alignments #altbioinf",2013-07-03,4
+"23","352347057002004480",2013-07-03 04:44:00,"LaurenCowley4","@BioMickWatson TooPHat: the splice aware aligner for when your data set is just PHAT #altbioinf",2013-07-03,4
+"24","352347879219798016",2013-07-03 04:47:00,"BioMickWatson","RT @LaurenCowley4: @BioMickWatson TooPHat: the splice aware aligner for when your data set is just PHAT #altbioinf",2013-07-03,4
+"25","352349019030302720",2013-07-03 04:52:00,"froggleston","RT @DunhamReal: Cytescape: fantasy network generator #altbioinf",2013-07-03,4
+"26","352350030553817088",2013-07-03 04:56:00,"BioMickWatson","Digishout: algorithm that produces more and more noise the bigger your data set gets #altbioinf",2013-07-03,4
+"27","352350381524787200",2013-07-03 04:57:00,"froggleston","BLAST'N: Like BLASTN, but way more funky, yo. #altbioinf",2013-07-03,4
+"28","352351057545932800",2013-07-03 05:00:00,"froggleston","Burrows-Wheelie Transform: Chorlton's favourite block-sorting compression algorithm. #altbioinf",2013-07-03,5
+"29","352351235866759168",2013-07-03 05:00:00,"kaiblin","RT @BioMickWatson: BioPerl: what you turn to after 4 days of trying to get BioPython to work ;) #altbioinf",2013-07-03,5
+"30","352351473285345280",2013-07-03 05:01:00,"BioMickWatson","REMEMBOSS: software utility that periodically reminds you of the existence of EMBOSS #altbioinf",2013-07-03,5
+"31","352351537110065152",2013-07-03 05:02:00,"froggleston","RT @BioMickWatson: REMEMBOSS: software utility that periodically reminds you of the existence of EMBOSS #altbioinf",2013-07-03,5
+"32","352351639262343168",2013-07-03 05:02:00,"4a6a5a","RT @BioMickWatson: REMEMBOSS: software utility that periodically reminds you of the existence of EMBOSS #altbioinf",2013-07-03,5
+"33","352353508277747712",2013-07-03 05:09:00,"neilhall_uk","WHAMtools: a tool for converting sequence to 80s pop music #altbioinf",2013-07-03,5
+"34","352354903299080192",2013-07-03 05:15:00,"pathogenomenick","Return of the MAQ - Heng Li decides BWA was a huge mistake #altbioinf",2013-07-03,5
+"35","352355981025488896",2013-07-03 05:19:00,"MikeyJ","@neilhall_uk SPAMtools! Emails your reads to you, a base at a time. #altbioinf",2013-07-03,5
+"36","352356177671225344",2013-07-03 05:20:00,"BioMickWatson","RT @itteration IntoTheABySS de novo assembly tool that organizes your contigs by circles of hell (see Dante's Inferno) #altbioinf",2013-07-03,5
+"37","352356442801586176",2013-07-03 05:21:00,"BioMickWatson","RT @MikeyJ: @neilhall_uk SPAMtools! Emails your reads to you, a base at a time. #altbioinf",2013-07-03,5
+"38","352356708410077184",2013-07-03 05:22:00,"pathogenomenick","@oliveirajorge88 No, it was a joke, see #altbioinf tag!",2013-07-03,5
+"39","352357016557191168",2013-07-03 05:23:00,"DunhamReal","http://bit.ly/6U2oMg : tool for generating #altbioinf versions of SAMtools @neilhall_uk",2013-07-03,5
+"40","352359400234684416",2013-07-03 05:33:00,"paleogenomics","new bedtools utilities, definitely something to sleep on  #altbioinf",2013-07-03,5
+"41","352359516718895104",2013-07-03 05:33:00,"BioMickWatson","MT @bjclavijo BioPython: what you use to rewrite your old BioPerl script after 4 days trying to understand what it was doing #altbioinf",2013-07-03,5
+"42","352359772214919168",2013-07-03 05:34:00,"pathogenomenick","n00bler: Assembler which takes input in Microsoft Word format #altbioinf",2013-07-03,5
+"43","352361817655345152",2013-07-03 05:42:00,"JohnMulley","DAMNandBLAST - similarity search tool that always results in *no significant similarity found* #altbioinf",2013-07-03,5
+"44","352361869341765632",2013-07-03 05:43:00,"bioinformAnt","@BioMickWatson Just caught on to the significance of the #altbioinf tag - ignore previous tweet - insert embarrassed emoticon",2013-07-03,5
+"45","352361929706192896",2013-07-03 05:43:00,"rdemes","MacLaid: Dreams of phylogenetic mac'ademic researchers? #altbioinf",2013-07-03,5
+"46","352362712250056704",2013-07-03 05:46:00,"somerklimaZXte","RT @bioinformAnt: @BioMickWatson Just caught on to the significance of the #altbioinf tag - ignore previous tweet - insert embarrassed emoticon",2013-07-03,5
+"47","352362804310839296",2013-07-03 05:46:00,"nigiord","RT @pathogenomenick: n00bler: Assembler which takes input in Microsoft Word format #altbioinf",2013-07-03,5
+"48","352362908363141120",2013-07-03 05:47:00,"BioMickWatson","Eulergy: in praise of the Eulerian path #altbioinf",2013-07-03,5
+"49","352362991552966656",2013-07-03 05:47:00,"karinlag","RT @pathogenomenick: n00bler: Assembler which takes input in Microsoft Word format #altbioinf",2013-07-03,5
+"50","352365670777880576",2013-07-03 05:58:00,"froggleston","SPMMER: hidden Markov models to ascertain what's really in dubious tinned meat products #horse #altbioinf",2013-07-03,5
+"51","352366533697224704",2013-07-03 06:01:00,"BioMickWatson","PhyloPithier: attempts to assign metagenomic data to taxons then makes a sarcastic remark about how badly it performed #altbioinf",2013-07-03,6
+"52","352367167506878464",2013-07-03 06:04:00,"oliveirajorge88","RT @pathogenomenick: n00bler: Assembler which takes input in Microsoft Word format #altbioinf",2013-07-03,6
+"53","352367528237993984",2013-07-03 06:05:00,"theoneamit","RT @BioMickWatson: REMEMBOSS: software utility that periodically reminds you of the existence of EMBOSS #altbioinf",2013-07-03,6
+"54","352367649046536192",2013-07-03 06:06:00,"drbrainbugz","RT @froggleston: @peri4n @BioMickWatson ABySS: the thing you're staring into when you realise that you bought a SOLiD #altbioinf #ohsnap",2013-07-03,6
+"55","352367776544997376",2013-07-03 06:06:00,"drbrainbugz","Actually laughing out loud at the #altbioinf thread.",2013-07-03,6
+"56","352368243014504448",2013-07-03 06:08:00,"drbrainbugz","RT @rdemes: MacLaid: Dreams of phylogenetic mac'ademic researchers? #altbioinf",2013-07-03,6
+"57","352369091589320704",2013-07-03 06:11:00,"theoneamit","#AnotherML: Tool to read write and (yes...) create, (yet) another markup language for god-knows-what omics #altbioinf",2013-07-03,6
+"58","352370089535864832",2013-07-03 06:15:00,"BioMickWatson","Tavern: a much more fun workflow system, involving mugs of beer, spit roast pigs and mead #altbioinf",2013-07-03,6
+"59","352370261649129472",2013-07-03 06:16:00,"yokofakun","RT @BioMickWatson: Tavern: a much more fun workflow system, involving mugs of beer, spit roast pigs and mead #altbioinf",2013-07-03,6
+"60","352370262060179456",2013-07-03 06:16:00,"MagnusManske","RT @BioMickWatson: BioPerl: what you turn to after 4 days of trying to get BioPython to work ;) #altbioinf",2013-07-03,6
+"61","352370368595505152",2013-07-03 06:16:00,"PhdGeek","RT @BioMickWatson: REMEMBOSS: software utility that periodically reminds you of the existence of EMBOSS #altbioinf",2013-07-03,6
+"62","352371126913085440",2013-07-03 06:19:00,"BioMickWatson","BioOneDuctor: repository of R packages that have only ever been used by one person, the author #altbioinf",2013-07-03,6
+"63","352371378651004928",2013-07-03 06:20:00,"yokofakun","BASTA : a new structured format storing infinite amount of sequences without any way to retrieve them #altbioinf",2013-07-03,6
+"64","352371473299677184",2013-07-03 06:21:00,"yokofakun","RT @BioMickWatson: BioOneDuctor: repository of R packages that have only ever been used by one person, the author #altbioinf",2013-07-03,6
+"65","352372058765795328",2013-07-03 06:23:00,"JohnMulley","Linus: like Linux, but only works when the operator is holding a blue blanket. #altbioinf",2013-07-03,6
+"66","352372530687909888",2013-07-03 06:25:00,"JeanFred","@BioMickWatson EMBOSSy: Every time you try to run something, it answers you that you should do it another way. #altbioinf",2013-07-03,6
+"67","352372617988145152",2013-07-03 06:25:00,"carloshotta","RT @BioMickWatson: BioOneDuctor: repository of R packages that have only ever been used by one person, the author #altbioinf",2013-07-03,6
+"68","352372744454799360",2013-07-03 06:26:00,"BioMickWatson","RT @JeanFred: @BioMickWatson EMBOSSy: Every time you try to run something, it answers you that you should do it another way. #altbioinf",2013-07-03,6
+"69","352373196231671808",2013-07-03 06:28:00,"carloshotta","RT @JeanFred: @BioMickWatson EMBOSSy: Every time you try to run something, it answers you that you should do it another way. #altbioinf",2013-07-03,6
+"70","352373658221678592",2013-07-03 06:30:00,"DunhamReal","GeeGeeplot: Equestrian images R package #altbioinf",2013-07-03,6
+"71","352374615986814976",2013-07-03 06:33:00,"theoneamit","RT @BioMickWatson: BioOneDuctor: repository of R packages that have only ever been used by one person, the author #altbioinf",2013-07-03,6
+"72","352374697725403136",2013-07-03 06:34:00,"nwe23","LESTA, like fasta but uses < rather than > to avoid accidental use of ""grep > seq.fasta"" deleting all your sequences #altbioinf",2013-07-03,6
+"73","352377554281299968",2013-07-03 06:45:00,"genetics_blog","SnuffLinks/SnuffDipp2: spitting out even more unsupported RNA-seq isoforms #altbioinf",2013-07-03,6
+"74","352377652495138816",2013-07-03 06:45:00,"genetics_blog","DIIME: microbial community analysis on a budget #altbioinf",2013-07-03,6
+"75","352378063151042560",2013-07-03 06:47:00,"BioMickWatson","MG-PAST: metagenomic analysis of ancient DNA samples #altbioinf",2013-07-03,6
+"76","352378721837137920",2013-07-03 06:50:00,"genetics_blog","glimma: a shiny new R pkg for linear models for microarray #altbioinf",2013-07-03,6
+"77","352378917081980928",2013-07-03 06:50:00,"BioMickWatson","Matelab: software environment to help mathematical biologists find friends #altbioinf",2013-07-03,6
+"78","352379243893768192",2013-07-03 06:52:00,"yokofakun","RT @BioMickWatson: Matelab: software environment to help mathematical biologists find friends #altbioinf",2013-07-03,6
+"79","352379524920524800",2013-07-03 06:53:00,"elisadonnard","@AndreiRozanski RT @BioMickWatson: Shamtools: software that pretends to do everything Samtools does, but actually does nothing #altbioinf",2013-07-03,6
+"80","352380042053029888",2013-07-03 06:55:00,"JohnMulley","ARRR: Statistical package for pirates. #altbioinf",2013-07-03,6
+"81","352380322475810816",2013-07-03 06:56:00,"BioMickWatson","RT @pathogenomenick: n00bler: Assembler which takes input in Microsoft Word format #altbioinf",2013-07-03,6
+"82","352380399630028800",2013-07-03 06:56:00,"genetics_blog","Biosemiconductor: all your favorite R packages with none of that pesky documentation #altbioinf",2013-07-03,6
+"83","352381042696523776",2013-07-03 06:59:00,"genetics_blog","TRANSFRACK: a transcription factor binding site database that pollutes your town's groundwater #altbioinf",2013-07-03,6
+"84","352381695523168256",2013-07-03 07:01:00,"JeanFred",".@BioMickWatson Rainbowtie: Ultrafast short read aligner against a continuous spectrum of colours. #Altbioinf",2013-07-03,7
+"85","352382203969290240",2013-07-03 07:03:00,"gedankenstuecke","Blufflinks: Randomly assigns transcripts as differentially expressed and hopes you won't notice. #altbioinf",2013-07-03,7
+"86","352382465056317440",2013-07-03 07:05:00,"JeanFred",".@BioMickWatson MUMmYer: sequence aligner for samples of long-dead humans. #Altbioinf",2013-07-03,7
+"87","352382485771993088",2013-07-03 07:05:00,"JeanFred","RT @BioMickWatson: After my shamtools tweet yesterday, I'm going to start a new hashtag: #altbioinf",2013-07-03,7
+"88","352383643190169600",2013-07-03 07:09:00,"elisadonnard","Can't stop laughing... #altbioinf",2013-07-03,7
+"89","352383962456395776",2013-07-03 07:10:00,"theoneamit","RT @BioMickWatson: Matelab: software environment to help mathematical biologists find friends #altbioinf",2013-07-03,7
+"90","352384021365395456",2013-07-03 07:11:00,"ppgardne","RT @BioMickWatson: Matelab: software environment to help mathematical biologists find friends #altbioinf",2013-07-03,7
+"91","352384064784830464",2013-07-03 07:11:00,"peri4n","RT @pathogenomenick: n00bler: Assembler which takes input in Microsoft Word format #altbioinf",2013-07-03,7
+"92","352385064165842944",2013-07-03 07:15:00,"OmicsOmicsBlog","RT @BioMickWatson: BioPerl: what you turn to after 4 days of trying to get BioPython to work ;) #altbioinf",2013-07-03,7
+"93","352385803189616640",2013-07-03 07:18:00,"BioMickWatson","SlowQC: more honest quality assessment of NGS data #altbioinf",2013-07-03,7
+"94","352385841336815616",2013-07-03 07:18:00,"BritishBirder","RT @froggleston: BLAST'N: Like BLASTN, but way more funky, yo. #altbioinf",2013-07-03,7
+"95","352386151493017600",2013-07-03 07:19:00,"JeanFred",".@BioMickWatson Pufflinks − Transcript assembly for smokers RNAseq. #Altbioinf",2013-07-03,7
+"96","352386627164844032",2013-07-03 07:21:00,"seanmATed","RT @BioMickWatson: Matelab: software environment to help mathematical biologists find friends #altbioinf",2013-07-03,7
+"97","352387289302831104",2013-07-03 07:24:00,"chrisfall","RT @BioMickWatson: BioPerl: what you turn to after 4 days of trying to get BioPython to work ;) #altbioinf",2013-07-03,7
+"98","352387388770758656",2013-07-03 07:24:00,"aaronquinlan","RT @froggleston: Burrows-Wheelie Transform: Chorlton's favourite block-sorting compression algorithm. #altbioinf",2013-07-03,7
+"99","352387435184918528",2013-07-03 07:24:00,"aaronquinlan","RT @paleogenomics: new bedtools utilities, definitely something to sleep on  #altbioinf",2013-07-03,7
+"100","352387747060793344",2013-07-03 07:26:00,"froggleston","You're all DAMfools #altbioinf",2013-07-03,7
+"101","352388499095306240",2013-07-03 07:28:00,"assemblathon","RT @pathogenomenick: n00bler: Assembler which takes input in Microsoft Word format #altbioinf",2013-07-03,7
+"102","352388732793520128",2013-07-03 07:29:00,"froggleston","blastxxx: late-night sequence similarity searching, maybe with a free 10 minute preview. #altbioinf",2013-07-03,7
+"103","352388938385719296",2013-07-03 07:30:00,"kbradnam","RT @pathogenomenick: Return of the MAQ - Heng Li decides BWA was a huge mistake #altbioinf",2013-07-03,7
+"104","352389376648556544",2013-07-03 07:32:00,"assemblathon","The Disassemblathon: a contest to see who can best reverse-engineer an assembly back into its constituent reads #altbioinf",2013-07-03,7
+"105","352389415164846080",2013-07-03 07:32:00,"froggleston","@JeanFred @BioMickWatson I hear Pufflinks works on RASTA files #altbioinf",2013-07-03,7
+"106","352389471238496256",2013-07-03 07:32:00,"kbradnam","RT @assemblathon: The Disassemblathon: a contest to see who can best reverse-engineer an assembly back into its constituent reads #altbioinf",2013-07-03,7
+"107","352389485939531776",2013-07-03 07:32:00,"froggleston","RT @assemblathon: The Disassemblathon: a contest to see who can best reverse-engineer an assembly back into its constituent reads #altbioinf",2013-07-03,7
+"108","352389906565312512",2013-07-03 07:34:00,"BioinfoTools","Cn3D - sensibly displays a rotating letter C #altbioinf",2013-07-03,7
+"109","352390313295364096",2013-07-03 07:36:00,"PhilippBayer","kill-mer: claims to computationally normalize your reads. Actually, just randomly deletes reads. Still leads to better assembly #altbioinf",2013-07-03,7
+"110","352391094178283520",2013-07-03 07:39:00,"JeanFred","RT @froggleston: @JeanFred @BioMickWatson I hear Pufflinks works on RASTA files #altbioinf",2013-07-03,7
+"111","352391623704969216",2013-07-03 07:41:00,"kbradnam","FASTQ+: like the FASTQ format, but with an extra line for storing *another* copy of the sequence identifier that’s on lines 1 & 3 #altbioinf",2013-07-03,7
+"112","352391925262843904",2013-07-03 07:42:00,"froggleston","IMDBA: Produces assemblies based on movie quality scores. #altbioinf",2013-07-03,7
+"113","352393086753710080",2013-07-03 07:47:00,"kbradnam","SAMGFFBEDGTF: one tab-separated format to rule them all #altbioinf",2013-07-03,7
+"114","352393400949018624",2013-07-03 07:48:00,"4a6a5a","RT @kbradnam: SAMGFFBEDGTF: one tab-separated format to rule them all #altbioinf",2013-07-03,7
+"115","352393483346116608",2013-07-03 07:48:00,"kbradnam","RT @JohnMulley: DAMNandBLAST - similarity search tool that always results in *no significant similarity found* #altbioinf",2013-07-03,7
+"116","352393512404262912",2013-07-03 07:48:00,"4a6a5a","RT @assemblathon: The Disassemblathon: a contest to see who can best reverse-engineer an assembly back into its constituent reads #altbioinf",2013-07-03,7
+"117","352393663889948672",2013-07-03 07:49:00,"AlexAlexAlex184","the #altbioinf hashtag is making me laugh today :)",2013-07-03,7
+"118","352393753526407168",2013-07-03 07:49:00,"rbuels","RT @pathogenomenick: n00bler: Assembler which takes input in Microsoft Word format #altbioinf",2013-07-03,7
+"119","352394180280066048",2013-07-03 07:51:00,"gedankenstuecke","BLINK: Easily finds spurios SNP associations which need to get published really quick. #altbioinf",2013-07-03,7
+"120","352394427907575808",2013-07-03 07:52:00,"mdperry","RT @JohnMulley: DAMNandBLAST - similarity search tool that always results in *no significant similarity found* #altbioinf",2013-07-03,7
+"121","352394491627438080",2013-07-03 07:52:00,"kbradnam","GenBankrupt: NCBI sequence database which runs out of space and has to return sequences to depositors. #altbioinf",2013-07-03,7
+"122","352394549844381696",2013-07-03 07:53:00,"mdperry","RT @kbradnam: SAMGFFBEDGTF: one tab-separated format to rule them all #altbioinf",2013-07-03,7
+"123","352395015466651648",2013-07-03 07:54:00,"froggleston","NOPATHS: Always uses a kmer size of 1. #altbioinf",2013-07-03,7
+"124","352395428714659840",2013-07-03 07:56:00,"khedkarsupriya","RT @BioMickWatson: Shamtools: software that pretends to do everything Samtools does, but actually does nothing #altbioinf",2013-07-03,7
+"125","352395708772524032",2013-07-03 07:57:00,"catfishsoftware","RT @kbradnam: GenBankrupt: NCBI sequence database which runs out of space and has to return sequences to depositors. #altbioinf",2013-07-03,7
+"126","352395814829694976",2013-07-03 07:58:00,"khedkarsupriya","RT @JohnMulley: DAMNandBLAST - similarity search tool that always results in *no significant similarity found* #altbioinf",2013-07-03,7
+"127","352396067171606528",2013-07-03 07:59:00,"markbate","RT @BioMickWatson: Matelab: software environment to help mathematical biologists find friends #altbioinf",2013-07-03,7
+"128","352396324466982912",2013-07-03 08:00:00,"khedkarsupriya","LOL quite literally! Read #altbioinf and you would too! @plasmabhai @ashwinkalbhor and all bioinfo junta out there-a laughter riot trust me!",2013-07-03,8
+"129","352396389508059136",2013-07-03 08:00:00,"mdperry","@kbradnam FASTQ++ new, improved FASTQ+, now requiring an object-oriented API #altbioinf",2013-07-03,8
+"130","352396597226782720",2013-07-03 08:01:00,"BioMickWatson","The NRA: a bioinformatics repository for short rifles #altbioinf",2013-07-03,8
+"131","352396681637142528",2013-07-03 08:01:00,"ewanbirney","#altbioinf is great, if a little close to the bone sometimes...",2013-07-03,8
+"132","352396727745134592",2013-07-03 08:01:00,"gedankenstuecke","PUML: Repeatedly punches your data sets until they finally confess to have been under positive selection. #altbioinf",2013-07-03,8
+"133","352396767473582080",2013-07-03 08:01:00,"BioMickWatson","py + <name>: the python version/library of whatever <name> refers to #altbioinf",2013-07-03,8
+"134","352396890723192832",2013-07-03 08:02:00,"BioMickWatson","<name> + Bayes: the version of <name> that uses Bayesian statistical models #altbioinf",2013-07-03,8
+"135","352396987699703808",2013-07-03 08:02:00,"genetics_blog","RT @ewanbirney: #altbioinf is great, if a little close to the bone sometimes...",2013-07-03,8
+"136","352396988186234880",2013-07-03 08:02:00,"ardalby","@BioMickWatson The NSA: repository - backing up the net #altbioinf",2013-07-03,8
+"137","352397031022657536",2013-07-03 08:02:00,"BioMickWatson","RT @ardalby: @BioMickWatson The NSA: repository - backing up the net #altbioinf",2013-07-03,8
+"138","352397726371160064",2013-07-03 08:05:00,"BioMickWatson","@ewanbirney oh I don't think anyone is really commenting on the tools seriously - all tongue in cheek :) #altbioinf",2013-07-03,8
+"139","352397741659402240",2013-07-03 08:05:00,"kbradnam","rm -f: new sequence compression tool to free up space #altbioinf",2013-07-03,8
+"140","352398420784320512",2013-07-03 08:08:00,"assemblathon","RT @froggleston: Celery: vegetable genome assembler #altbioinf",2013-07-03,8
+"141","352398441541931008",2013-07-03 08:08:00,"nparmalee","RT @kbradnam: rm -f: new sequence compression tool to free up space #altbioinf",2013-07-03,8
+"142","352398717061566464",2013-07-03 08:09:00,"sjcockell","YoMUMmer - large scale alignment tool with a fine line in creative insults if you get the command wrong #altbioinf",2013-07-03,8
+"143","352398982686846976",2013-07-03 08:10:00,"imogenwright","RT @BioMickWatson: StopThat: useful tool that suggests an alternative spliced aligner every time someone tries to use TopHat #altbioinf",2013-07-03,8
+"144","352399507578814464",2013-07-03 08:12:00,"kbradnam","GeeBrowse: a genome browser tool that causes excitement when all of the tracks finally finish loading #altbioinf",2013-07-03,8
+"145","352400614203981824",2013-07-03 08:17:00,"laxvid","RT @laxvid: Alt+<name> performs analysis in an alternate universe and makes no sense to humans #altbioinf",2013-07-03,8
+"146","352400783586766848",2013-07-03 08:17:00,"laxvid","RT @BioMickWatson: @ewanbirney oh I don't think anyone is really commenting on the tools seriously - all tongue in cheek :) #altbioinf",2013-07-03,8
+"147","352400991318065152",2013-07-03 08:18:00,"evolvability","RT @BioMickWatson: ELAND-that-time-forgot: the name says it all #altbioinf",2013-07-03,8
+"148","352401271413669888",2013-07-03 08:19:00,"kbradnam","The Completome: the subset of genome sequencing projects that have no gaps or errors, and contain no Ns (currently zero) #altbioinf",2013-07-03,8
+"149","352401279680659456",2013-07-03 08:19:00,"mgalactus","<name> + 2Go: the version of <name> for lazy sysadmins #altbioinf",2013-07-03,8
+"150","352401296424321024",2013-07-03 08:19:00,"iosefward","RT @BioMickWatson: SlowQC: more honest quality assessment of NGS data #altbioinf",2013-07-03,8
+"151","352401912903114752",2013-07-03 08:22:00,"aaronquinlan","RT @froggleston: NOPATHS: Always uses a kmer size of 1. #altbioinf",2013-07-03,8
+"152","352402051130597376",2013-07-03 08:22:00,"laxvid","reStRA where sequences are laid to rest #altbioinf",2013-07-03,8
+"153","352402745816391680",2013-07-03 08:25:00,"laxvid","Check out #altbioinf tag- seriously funny take on bioinformatics tools @BioMickWatson",2013-07-03,8
+"154","352403177368326144",2013-07-03 08:27:00,"MattBashton","SPY-BLAST searches for Edward Snowdon in international airspace! #falsepositives #altbioinf",2013-07-03,8
+"155","352403221207199744",2013-07-03 08:27:00,"aljazeeraforum6","GeeBrowse: a genome browser tool that causes excitement when all of the tracks finally finish loading #altbioinf",2013-07-03,8
+"156","352403383782621184",2013-07-03 08:28:00,"nelidaklannHCew","RT @aljazeeraforum6: GeeBrowse: a genome browser tool that causes excitement when all of the tracks finally finish loading #altbioinf",2013-07-03,8
+"157","352403526850318336",2013-07-03 08:28:00,"kbradnam","FASTEH: new sequence file format for Canadians #altbioinf",2013-07-03,8
+"158","352405540242075648",2013-07-03 08:36:00,"froggleston","Brap: Phrap, but more ""street"". #altbioinf",2013-07-03,8
+"159","352406053905895424",2013-07-03 08:38:00,"jjm101919_","GeeBrowse: a genome browser tool that causes excitement when all of the tracks finally finish loading #altbioinf",2013-07-03,8
+"160","352406091029676032",2013-07-03 08:38:00,"jamimmunology","RT @kbradnam: rm -f: new sequence compression tool to free up space #altbioinf",2013-07-03,8
+"161","352406434996166656",2013-07-03 08:40:00,"daanspeth","#maromics2013 check out @BioMickWatson 's #altbioinf tag. Great bioinformatics humor",2013-07-03,8
+"162","352407524185612288",2013-07-03 08:44:00,"4a6a5a","RT @sjcockell: YoMUMmer - large scale alignment tool with a fine line in creative insults if you get the command wrong #altbioinf",2013-07-03,8
+"163","352408596648173568",2013-07-03 08:48:00,"MattBashton","Misfolding@home, wastes console GPU time to misfold proteins and mine bitcoins #altbioinf.",2013-07-03,8
+"164","352408663731871744",2013-07-03 08:49:00,"4a6a5a","TieBow: an ultraslow memory-inefficient short read aligner #altbioinf",2013-07-03,8
+"165","352408931865346048",2013-07-03 08:50:00,"i_am_kilpatrick","RT @sjcockell: YoMUMmer - large scale alignment tool with a fine line in creative insults if you get the command wrong #altbioinf",2013-07-03,8
+"166","352409579910479872",2013-07-03 08:52:00,"JohnMulley","N50Cent: the sequencing metric that all the cool kids are using #altbioinf",2013-07-03,8
+"167","352409600089272320",2013-07-03 08:52:00,"4a6a5a","ShlowCons: a program for identifying evolutionarily conserved elements written in R #altbioinf",2013-07-03,8
+"168","352410017305067520",2013-07-03 08:54:00,"imogenwright","the #altbioinf hashtag is currently cracking me up.  ouch, but hee, but ouch.",2013-07-03,8
+"169","352410137354436608",2013-07-03 08:54:00,"AlexAlexAlex184","Baker: just like Maker but it also bakes the annotations into a very nice pie #altbioinf",2013-07-03,8
+"170","352410497812930560",2013-07-03 08:56:00,"jayhesselberth","RT @kbradnam: FASTEH: new sequence file format for Canadians #altbioinf",2013-07-03,8
+"171","352410501499731968",2013-07-03 08:56:00,"brent_p","RT @genetics_blog: SnuffLinks/SnuffDipp2: spitting out even more unsupported RNA-seq isoforms #altbioinf",2013-07-03,8
+"172","352410538078253056",2013-07-03 08:56:00,"asiepel","RT @4a6a5a: ShlowCons: a program for identifying evolutionarily conserved elements written in R #altbioinf",2013-07-03,8
+"173","352410973497344000",2013-07-03 08:58:00,"fmarquesmadeira","UnFoldit: a new biogame to unfold protein structures #altbioinf",2013-07-03,8
+"174","352411245565054976",2013-07-03 08:59:00,"AlexAlexAlex184","RT @BioMickWatson: NWA: plays hip-hop instead of running your alignments #altbioinf",2013-07-03,8
+"175","352412259181535232",2013-07-03 09:03:00,"larsgt","RT @kbradnam: FASTEH: new sequence file format for Canadians #altbioinf",2013-07-03,9
+"176","352412314772832256",2013-07-03 09:03:00,"jonathancairns","TRAMTools: method that uses short reads as public transportation. #altbioinf",2013-07-03,9
+"177","352412420234428416",2013-07-03 09:04:00,"marc_rr","Gene Tautology: each gene performs a genetic function #altbioinf",2013-07-03,9
+"178","352412587490680832",2013-07-03 09:04:00,"marc_rr","Modest Organism Databases: for species which don't dare become model organisms #altbioinf",2013-07-03,9
+"179","352412882165694464",2013-07-03 09:05:00,"larsgt","RT @JohnMulley: ARRR: Statistical package for pirates. #altbioinf",2013-07-03,9
+"180","352413287364825088",2013-07-03 09:07:00,"jonathancairns","Gene Sett Enrichment Analysis: method that replaces input gene list with list of badger species #altbioinf",2013-07-03,9
+"181","352413301147316224",2013-07-03 09:07:00,"larsgt","RT @BioMickWatson: Shamtools: software that pretends to do everything Samtools does, but actually does nothing #altbioinf",2013-07-03,9
+"182","352413683185496064",2013-07-03 09:09:00,"DunhamReal","ClipOn BowTie :  short read aligner that will run on mobile devices (and not actually do any aligning) #altbioinf",2013-07-03,9
+"183","352414442119643136",2013-07-03 09:12:00,"Janis3_14159","RT @BioMickWatson: <name> + Bayes: the version of <name> that uses Bayesian statistical models #altbioinf",2013-07-03,9
+"184","352414516199424000",2013-07-03 09:12:00,"Janis3_14159","RT @BioMickWatson: Matelab: software environment to help mathematical biologists find friends #altbioinf",2013-07-03,9
+"185","352414534092324864",2013-07-03 09:12:00,"KatherineMejia","RT @kbradnam: GenBankrupt: NCBI sequence database which runs out of space and has to return sequences to depositors. #altbioinf",2013-07-03,9
+"186","352414618834051072",2013-07-03 09:12:00,"KatherineMejia","RT @genetics_blog: SnuffLinks/SnuffDipp2: spitting out even more unsupported RNA-seq isoforms #altbioinf",2013-07-03,9
+"187","352414650807234560",2013-07-03 09:12:00,"Janis3_14159","RT @BioMickWatson: BioOneDuctor: repository of R packages that have only ever been used by one person, the author #altbioinf",2013-07-03,9
+"188","352414717270179840",2013-07-03 09:13:00,"Janis3_14159","RT @BioMickWatson: Tavern: a much more fun workflow system, involving mugs of beer, spit roast pigs and mead #altbioinf",2013-07-03,9
+"189","352414785024962560",2013-07-03 09:13:00,"KatherineMejia","RT @gedankenstuecke: BLINK: Easily finds spurios SNP associations which need to get published really quick. #altbioinf",2013-07-03,9
+"190","352414803077246976",2013-07-03 09:13:00,"KatherineMejia","RT @gedankenstuecke: PUML: Repeatedly punches your data sets until they finally confess to have been under positive selection. #altbioinf",2013-07-03,9
+"191","352414944865685504",2013-07-03 09:14:00,"jonathancairns","RT @kbradnam: FASTEH: new sequence file format for Canadians #altbioinf",2013-07-03,9
+"192","352415000226316288",2013-07-03 09:14:00,"TheIcemanBoreth","@BioMickWatson RIIME: 16S OTU picking using Iambic pentameter #altbioinf",2013-07-03,9
+"193","352415498367021056",2013-07-03 09:16:00,"pathogenomenick","Knowing me, Knowing You: SSAHA!!! #altbioinf",2013-07-03,9
+"194","352416447600934912",2013-07-03 09:20:00,"h4rdeep","RT @MikeyJ: @neilhall_uk SPAMtools! Emails your reads to you, a base at a time. #altbioinf",2013-07-03,9
+"195","352416705253212160",2013-07-03 09:21:00,"h4rdeep","RT @froggleston: @peri4n @BioMickWatson ABySS: the thing you're staring into when you realise that you bought a SOLiD #altbioinf #ohsnap",2013-07-03,9
+"196","352416762467336192",2013-07-03 09:21:00,"BaCh_mira","Fred: base quality ... what base quality? 42 is all you need to know. #altbioinf",2013-07-03,9
+"197","352416856629452800",2013-07-03 09:21:00,"bioinfosm","Dont miss the #altbioinf buzz with BEDRules NoPaths BeerSeq TooPHAT Smellvet n lots more!! #bioinformatics #genomics #ngs tools",2013-07-03,9
+"198","352417101958492160",2013-07-03 09:22:00,"DrLabRatOry","@BioMickWatson BioHurl: after failing to get either working after 4 days, you chuck the computer out the window. #altbioinf",2013-07-03,9
+"199","352418206662672384",2013-07-03 09:27:00,"DrLabRatOry","Skimmomatic: when you can’t figure out how to get Trimmomatic working, look at your reads and think “eh, good enough” #altbioinf",2013-07-03,9
+"200","352418796721537024",2013-07-03 09:29:00,"DrLabRatOry","Galacticus: a universal, web based analysis pipeline that eats all your data, disk space and resources. #altbioinf",2013-07-03,9
+"201","352418932973518848",2013-07-03 09:29:00,"ManuFrenchy","RT @marc_rr: Modest Organism Databases: for species which don't dare become model organisms #altbioinf",2013-07-03,9
+"202","352419023062970368",2013-07-03 09:30:00,"iosefward","@nickschurch Pfft I always forget hashtags. Seen the #altbioinf one?",2013-07-03,9
+"203","352419182018691072",2013-07-03 09:30:00,"nigiord","RT @yokofakun: BASTA : a new structured format storing infinite amount of sequences without any way to retrieve them #altbioinf",2013-07-03,9
+"204","352419202788896768",2013-07-03 09:31:00,"froggleston","Fickle: Trims reads at quality < Q80. Excellent for input to NOPATHS. #altbioinf",2013-07-03,9
+"205","352419217200513024",2013-07-03 09:31:00,"AlexAlexAlex184","Baker: it bakes the annotations into a very nice pie #altbioinf",2013-07-03,9
+"206","352419760690049024",2013-07-03 09:33:00,"DanGraur","RT @gedankenstuecke: PUML: Repeatedly punches your data sets until they finally confess to have been under positive selection. #altbioinf",2013-07-03,9
+"207","352422670186450944",2013-07-03 09:44:00,"bioinfosm","LOL!! RT @marc_rr Modest Organism Databases: for species which don't dare become model organisms #altbioinf",2013-07-03,9
+"208","352423000290766848",2013-07-03 09:46:00,"bishoyh","RT @bioinfosm: LOL!! RT @marc_rr Modest Organism Databases: for species which don't dare become model organisms #altbioinf",2013-07-03,9
+"209","352423430991257600",2013-07-03 09:47:00,"richardmleggett","RT @froggleston: NOPATHS: Always uses a kmer size of 1. #altbioinf",2013-07-03,9
+"210","352423456341622784",2013-07-03 09:47:00,"richardmleggett","RT @froggleston: Fickle: Trims reads at quality < Q80. Excellent for input to NOPATHS. #altbioinf",2013-07-03,9
+"211","352424910787842048",2013-07-03 09:53:00,"drbrainbugz","RT @TheIcemanBoreth: @BioMickWatson RIIME: 16S OTU picking using Iambic pentameter #altbioinf",2013-07-03,9
+"212","352425153663213568",2013-07-03 09:54:00,"drbrainbugz","RT @JohnMulley: N50Cent: the sequencing metric that all the cool kids are using #altbioinf",2013-07-03,9
+"213","352425601627459584",2013-07-03 09:56:00,"drbrainbugz","RT @froggleston: IMDBA: Produces assemblies based on movie quality scores. #altbioinf",2013-07-03,9
+"214","352426033582051328",2013-07-03 09:58:00,"drbrainbugz","RT @froggleston: SPMMER: hidden Markov models to ascertain what's really in dubious tinned meat products #horse #altbioinf",2013-07-03,9
+"215","352426700988096512",2013-07-03 10:00:00,"itteration","@BioMickWatson SOAPdesuds  does the laundry.  that's about it.  #altbioinf",2013-07-03,10
+"216","352426838217338880",2013-07-03 10:01:00,"marc_rr","ENCOLERE: user-friendly browser for 15 Tb of twitter and blog debates about #junkDNA. #altbioinf",2013-07-03,10
+"217","352427377911017472",2013-07-03 10:03:00,"BioDataGanache","UCSC Badome Browser: Helpful GUI for exploring the myriad of different terms using the -ome suffix #altbioinf",2013-07-03,10
+"218","352427555074220032",2013-07-03 10:04:00,"marc_rr","RT @BioDataGanache: UCSC Badome Browser: Helpful GUI for exploring the myriad of different terms using the -ome suffix #altbioinf",2013-07-03,10
+"219","352427944582447104",2013-07-03 10:05:00,"BioDataGanache","Side-Escape: Random network figure generator helping you to dodge pesky issues like biological relevance #altbioinf",2013-07-03,10
+"220","352428470850170880",2013-07-03 10:07:00,"marc_rr","The BOBO foundry: for ontologies which are well established but keep their early bohème style #altbioinf",2013-07-03,10
+"221","352428745891651584",2013-07-03 10:08:00,"Valis2501","RT @gedankenstuecke: PUML: Repeatedly punches your data sets until they finally confess to have been under positive selection. #altbioinf",2013-07-03,10
+"222","352430323897868288",2013-07-03 10:15:00,"byuhobbes","RT @gedankenstuecke: PUML: Repeatedly punches your data sets until they finally confess to have been under positive selection. #altbioinf",2013-07-03,10
+"223","352430652966191104",2013-07-03 10:16:00,"byuhobbes","RT @froggleston: You're all DAMfools #altbioinf",2013-07-03,10
+"224","352430842049593344",2013-07-03 10:17:00,"OpenHelix","Heh. Fun hashtag today RT @kbradnam: FASTEH: new sequence file format for Canadians #altbioinf",2013-07-03,10
+"225","352431123529351168",2013-07-03 10:18:00,"byuhobbes","RT @pathogenomenick: Return of the MAQ - Heng Li decides BWA was a huge mistake #altbioinf",2013-07-03,10
+"226","352432721605304320",2013-07-03 10:24:00,"bffo","Eh? :) RT @OpenHelix: Heh. Fun hashtag today RT @kbradnam: FASTEH: new sequence file format for Canadians #altbioinf",2013-07-03,10
+"227","352435508355399680",2013-07-03 10:35:00,"RPoretsky","CHIME (pronounced ""quimmey"") #altbioinf",2013-07-03,10
+"228","352436484193796096",2013-07-03 10:39:00,"sharmanedit","RT @neilhall_uk: WHAMtools: a tool for converting sequence to 80s pop music #altbioinf",2013-07-03,10
+"229","352436673377873920",2013-07-03 10:40:00,"sharmanedit","RT @laxvid: Check out #altbioinf tag- seriously funny take on bioinformatics tools @BioMickWatson",2013-07-03,10
+"230","352436733801013248",2013-07-03 10:40:00,"sharmanedit","RT @BioDataGanache: UCSC Badome Browser: Helpful GUI for exploring the myriad of different terms using the -ome suffix #altbioinf",2013-07-03,10
+"231","352436865418264576",2013-07-03 10:41:00,"kbradnam","CLUSTALLWs: program that only aligns tryptophan characters #altbioinf",2013-07-03,10
+"232","352437318759612416",2013-07-03 10:42:00,"heyaudy","@kbradnam UCLUST/USEARCH only match Uracil #altbioinf",2013-07-03,10
+"233","352438114846900224",2013-07-03 10:46:00,"froggleston","RT @RPoretsky: CHIME (pronounced ""quimmey"") #altbioinf",2013-07-03,10
+"234","352438146706841600",2013-07-03 10:46:00,"rtraborn","RT @kbradnam: FASTEH: new sequence file format for Canadians #altbioinf",2013-07-03,10
+"235","352438339837763584",2013-07-03 10:47:00,"CamLBerthelot","Peakpster: it's not a mainstream peak caller, you probably never heard of it. #altbioinf",2013-07-03,10
+"236","352438364663857152",2013-07-03 10:47:00,"kbradnam","RESEMBL: a European bioinformatics organization that duplicates functionality of tools and services provided by EMBL #altbioinf",2013-07-03,10
+"237","352438477096357888",2013-07-03 10:47:00,"subsurface_life","Ha! Love it! RT @daanspeth: #maromics2013 check out @BioMickWatson 's #altbioinf tag. Great bioinformatics humor",2013-07-03,10
+"238","352438569765314560",2013-07-03 10:47:00,"4a6a5a","#ROTFL RT @CamLBerthelot: Peakpster: it's not a mainstream peak caller, you probably never heard of it. #altbioinf",2013-07-03,10
+"239","352438948435472384",2013-07-03 10:49:00,"bjclavijo","@BioMickWatson Shortex: NGS assembler producing very short contigs (but it won't loose variants!) #altbioinf",2013-07-03,10
+"240","352439041234436096",2013-07-03 10:49:00,"jonathancairns","RT @CamLBerthelot: Peakpster: it's not a mainstream peak caller, you probably never heard of it. #altbioinf",2013-07-03,10
+"241","352439211464474624",2013-07-03 10:50:00,"byuhobbes","RT @kbradnam: rm -f: new sequence compression tool to free up space #altbioinf",2013-07-03,10
+"242","352439254678380544",2013-07-03 10:50:00,"klmr","RT @CamLBerthelot: Peakpster: it's not a mainstream peak caller, you probably never heard of it. #altbioinf",2013-07-03,10
+"243","352439371640733696",2013-07-03 10:51:00,"StefanieButland","Beauty, eh? RT @OpenHelix: Heh. Fun hashtag today RT @kbradnam: FASTEH: new sequence file format for Canadians #altbioinf",2013-07-03,10
+"244","352439669125955584",2013-07-03 10:52:00,"4a6a5a","RT @kbradnam: rm -f: new sequence compression tool to free up space #altbioinf",2013-07-03,10
+"245","352440323483504640",2013-07-03 10:54:00,"banderso","LOL, RT @kbradnam: FASTEH: new sequence file format for Canadians #altbioinf",2013-07-03,10
+"246","352441884116926464",2013-07-03 11:01:00,"bioinformer","LMFAO! RT @JohnMulley: ARRR: Statistical package for pirates. #altbioinf",2013-07-03,11
+"247","352442775821750272",2013-07-03 11:04:00,"yokofakun","NAH Annual Issue of non-downloadable Databases without API & only used by their authors #altbioinf",2013-07-03,11
+"248","352443053224628224",2013-07-03 11:05:00,"mdperry","RT @BioMickWatson: SlowQC: more honest quality assessment of NGS data #altbioinf",2013-07-03,11
+"249","352443800502796288",2013-07-03 11:08:00,"kbradnam","RT @bioinfosm: LOL!! RT @marc_rr Modest Organism Databases: for species which don't dare become model organisms #altbioinf",2013-07-03,11
+"250","352444858176249856",2013-07-03 11:12:00,"gatk_dev","RT @pathogenomenick: n00bler: Assembler which takes input in Microsoft Word format #altbioinf",2013-07-03,11
+"251","352445760756916224",2013-07-03 11:16:00,"gatk_dev","RT @MikeyJ: @neilhall_uk SPAMtools! Emails your reads to you, a base at a time. #altbioinf",2013-07-03,11
+"252","352446533356097536",2013-07-03 11:19:00,"pjacock","RT @BaCh_mira: Fred: base quality ... what base quality? 42 is all you need to know. #altbioinf",2013-07-03,11
+"253","352446902329024512",2013-07-03 11:21:00,"kbradnam","Last one (I promise)… Genetic Al Gore Rhythm: tool to elucidate the genes responsible for former VPs sense of timing.  #altbioinf",2013-07-03,11
+"254","352447795510247424",2013-07-03 11:24:00,"pjacock","RT @BioMickWatson: Tavern: a much more fun workflow system, involving mugs of beer, spit roast pigs and mead #altbioinf",2013-07-03,11
+"255","352447888435060736",2013-07-03 11:24:00,"bishoyh","RT @BioMickWatson: Tavern: a much more fun workflow system, involving mugs of beer, spit roast pigs and mead #altbioinf",2013-07-03,11
+"256","352448016063545344",2013-07-03 11:25:00,"mrrizkallah","RT @banderso: LOL, RT @kbradnam: FASTEH: new sequence file format for Canadians #altbioinf",2013-07-03,11
+"257","352448227821367296",2013-07-03 11:26:00,"mrrizkallah","RT @kbradnam: CLUSTALLWs: program that only aligns tryptophan characters #altbioinf",2013-07-03,11
+"258","352448384948371456",2013-07-03 11:26:00,"mrrizkallah","RT @bioinfosm: LOL!! RT @marc_rr Modest Organism Databases: for species which don't dare become model organisms #altbioinf",2013-07-03,11
+"259","352448638942838784",2013-07-03 11:27:00,"mrrizkallah","RT @JohnMulley: N50Cent: the sequencing metric that all the cool kids are using #altbioinf",2013-07-03,11
+"260","352448752151302144",2013-07-03 11:28:00,"mrrizkallah","RT @MattBashton: SPY-BLAST searches for Edward Snowdon in international airspace! #falsepositives #altbioinf",2013-07-03,11
+"261","352448838952435712",2013-07-03 11:28:00,"aaronquinlan","RT @bioinfosm: LOL!! RT @marc_rr Modest Organism Databases: for species which don't dare become model organisms #altbioinf",2013-07-03,11
+"262","352449029973618688",2013-07-03 11:29:00,"mrrizkallah","RT @BioMickWatson: Matelab: software environment to help mathematical biologists find friends #altbioinf",2013-07-03,11
+"263","352449114216218624",2013-07-03 11:29:00,"mrrizkallah","RT @yokofakun: BASTA : a new structured format storing infinite amount of sequences without any way to retrieve them #altbioinf",2013-07-03,11
+"264","352449152245956608",2013-07-03 11:30:00,"4a6a5a","RT @froggleston: Celery: vegetable genome assembler #altbioinf",2013-07-03,11
+"265","352449178946912256",2013-07-03 11:30:00,"mrrizkallah","RT @BioMickWatson: BioOneDuctor: repository of R packages that have only ever been used by one person, the author #altbioinf",2013-07-03,11
+"266","352449231161798656",2013-07-03 11:30:00,"mrrizkallah","RT @pathogenomenick: n00bler: Assembler which takes input in Microsoft Word format #altbioinf",2013-07-03,11
+"267","352449405581922304",2013-07-03 11:31:00,"cwvhogue","x!random for mass spec analysis of gooey samples of the metaproteome. #altbioinf",2013-07-03,11
+"268","352449420383617024",2013-07-03 11:31:00,"kbradnam","RT @JohnMulley: N50Cent: the sequencing metric that all the cool kids are using #altbioinf",2013-07-03,11
+"269","352449696649854976",2013-07-03 11:32:00,"jervenbolleman","RT @yokofakun: NAH Annual Issue of non-downloadable Databases without API & only used by their authors #altbioinf",2013-07-03,11
+"270","352449702924517376",2013-07-03 11:32:00,"bishoyh","RT @JohnMulley: N50Cent: the sequencing metric that all the cool kids are using #altbioinf",2013-07-03,11
+"271","352449824114741248",2013-07-03 11:32:00,"BioDataGanache","RT @cwvhogue: x!random for mass spec analysis of gooey samples of the metaproteome. #altbioinf",2013-07-03,11
+"272","352450253447897088",2013-07-03 11:34:00,"CamLBerthelot","BURP: Basepair Unconstrained Rate Profiling - identifies non-functional elements by quantifying evolutionary constraint. #ohwait #altbioinf",2013-07-03,11
+"273","352450634475257856",2013-07-03 11:35:00,"lexnederbragt","RT @subsurface_life: Ha! Love it! RT @daanspeth: #maromics2013 check out @BioMickWatson 's #altbioinf tag. Great bioinformatics humor",2013-07-03,11
+"274","352450836976250880",2013-07-03 11:36:00,"RPoretsky","Heh. The #altbioinf tweets are cracking me up. You are some clever, punny people.",2013-07-03,11
+"275","352452038443008000",2013-07-03 11:41:00,"lexnederbragt","GRIM, companion tool to REAPR #altbioinf",2013-07-03,11
+"276","352452381620973568",2013-07-03 11:42:00,"lexnederbragt","Celery assembler - the green assembler #altbioinf",2013-07-03,11
+"277","352452450550161408",2013-07-03 11:43:00,"rtraborn","At-bLast: a web-based sequence alignment tool that automatically plays Etta James' signature song during processing. #altbioinf",2013-07-03,11
+"278","352452468338212864",2013-07-03 11:43:00,"BioDataGanache","R+ : proprietary pay-to-use version of the open-source R language #altbioinf",2013-07-03,11
+"279","352452631307878400",2013-07-03 11:43:00,"cwvhogue","True story - @kbradnam I wrote a C library called algorend.c ""Algorithmic rendering"" for Cn3D 1.0 #altbioinf",2013-07-03,11
+"280","352452729945341952",2013-07-03 11:44:00,"jacarrico","RT @pathogenomenick: n00bler: Assembler which takes input in Microsoft Word format #altbioinf",2013-07-03,11
+"281","352452898803826688",2013-07-03 11:44:00,"cistronic","RT @DunhamReal: Chaos: Visualisation of hiC data in Circos #altbioinf",2013-07-03,11
+"282","352453104555401216",2013-07-03 11:45:00,"BioMickWatson","cc @froggleston @lexnederbragt Celery assembler - the green assembler #altbioinf",2013-07-03,11
+"283","352453202463043584",2013-07-03 11:46:00,"cistronic","RT @DunhamReal: Cytescape: fantasy network generator #altbioinf",2013-07-03,11
+"284","352454360904642560",2013-07-03 11:50:00,"lexnederbragt","SMRTer - long read aligner that has no clue #altbioinf",2013-07-03,11
+"285","352454814627659776",2013-07-03 11:52:00,"jonathancairns","DAMN: Old-fashioned algorithm, commonly used with BLAST #altbioinf",2013-07-03,11
+"286","352455107071320064",2013-07-03 11:53:00,"chrisfall","RT @BioMickWatson: Matelab: software environment to help mathematical biologists find friends #altbioinf",2013-07-03,11
+"287","352455244409606144",2013-07-03 11:54:00,"nextgenseek","FORMATools A new tool to generate yet another bioinformatics format easily. #altbioinf",2013-07-03,11
+"288","352455317629575168",2013-07-03 11:54:00,"lexnederbragt","Sorry hadn't seen you beat me to it... RT @froggleston: Celery: vegetable genome assembler #altbioinf",2013-07-03,11
+"289","352455638703550464",2013-07-03 11:55:00,"imogenwright","RT @nextgenseek: FORMATools A new tool to generate yet another bioinformatics format easily. #altbioinf",2013-07-03,11
+"290","352455770387914752",2013-07-03 11:56:00,"lexnederbragt","RayOfLight, non-post-light read assembler #altbioinf",2013-07-03,11
+"291","352455952768831488",2013-07-03 11:57:00,"surt_lab","ReplicaPlate: a program that runs velvet over and over again looking for that one magical kmer #altbioinf",2013-07-03,11
+"292","352456071962562560",2013-07-03 11:57:00,"nextgenseek","aligneR: Aligning billions of reads leisurely. #altbioinf #iluvR",2013-07-03,11
+"293","352456377832189952",2013-07-03 11:58:00,"lexnederbragt","UNCODE, junk DNA detector #altbioinf",2013-07-03,11
+"294","352456426058289152",2013-07-03 11:58:00,"luispedrocoelho","PUBLISH: A tool for random search of hyperparameter values. Stops when P<0.05 #altbioinf",2013-07-03,11
+"295","352456596338655232",2013-07-03 11:59:00,"homolog_us","@lexnederbragt Junk DNA does not exist. Junk papers do. #altbioinf",2013-07-03,11
+"296","352457188834410496",2013-07-03 12:01:00,"lexnederbragt","GWASH, cleaning up genomic dark matter #altbioinf",2013-07-03,12
+"297","352457275002204160",2013-07-03 12:02:00,"rtraborn","OAGUARD: plugin that blocks access to the submission system of closed-access journals. Redirects to gif of disapproving @mbeisen. #altbioinf",2013-07-03,12
+"298","352457370934317056",2013-07-03 12:02:00,"jkhedron","Paging @ctitusbrown :-) RT ""@BioMickWatson: Digishout: algorithm that produces more and more noise the bigger your data set gets #altbioinf""",2013-07-03,12
+"299","352457412676042752",2013-07-03 12:02:00,"EvolutionPirate","RT @gedankenstuecke: PUML: Repeatedly punches your data sets until they finally confess to have been under positive selection. #altbioinf",2013-07-03,12
+"300","352458130136899584",2013-07-03 12:05:00,"srbehera11","Genetic and Evolutionary Algorithms to optimizing parameters in sequence assembly #altbioinf",2013-07-03,12
+"301","352459005265838080",2013-07-03 12:09:00,"pgmiller21","RT @MikeyJ: @neilhall_uk SPAMtools! Emails your reads to you, a base at a time. #altbioinf",2013-07-03,12
+"302","352459300519682048",2013-07-03 12:10:00,"homolog_us","ALTBIOINF, a twitter-enabled crowdsourced tool for cutting-edge bioinformatics #altbioinf",2013-07-03,12
+"303","352459785398001664",2013-07-03 12:12:00,"theoneamit","DieSpec-tool that dies every time one tries to search their mass spectra #altbioinf",2013-07-03,12
+"304","352459800510074880",2013-07-03 12:12:00,"homolog_us","SHOCKING - a comparative analysis of genomes of  distant electric fishes #altbioinf",2013-07-03,12
+"305","352460161283141632",2013-07-03 12:13:00,"theoneamit","NoQuant-tool for protein quantitation where none exists #altbioinf",2013-07-03,12
+"306","352460303662985216",2013-07-03 12:14:00,"jonathancairns","RT @homolog_us: ALTBIOINF, a twitter-enabled crowdsourced tool for cutting-edge bioinformatics #altbioinf",2013-07-03,12
+"307","352461551799775232",2013-07-03 12:19:00,"mrtnj","RT @BioMickWatson: Shamtools: software that pretends to do everything Samtools does, but actually does nothing #altbioinf",2013-07-03,12
+"308","352461722986094592",2013-07-03 12:19:00,"homolog_us","GenBankRun - DDOS attack on Genbank #altbioinf",2013-07-03,12
+"309","352462055707652096",2013-07-03 12:21:00,"jamesdotcuff","BlackHole: a #usegalaxy clone that writes output to a CIFS share... #altbioinf",2013-07-03,12
+"310","352462110875320320",2013-07-03 12:21:00,"jamesdotcuff","RT @pathogenomenick: n00bler: Assembler which takes input in Microsoft Word format #altbioinf",2013-07-03,12
+"311","352462227154010112",2013-07-03 12:21:00,"SoundCawl_","GeeBrowse: a genome browser tool that causes excitement when all of the tracks finally finish loading #altbioinf",2013-07-03,12
+"312","352462355654909952",2013-07-03 12:22:00,"mdperry","RT @homolog_us: ALTBIOINF, a twitter-enabled crowdsourced tool for cutting-edge bioinformatics #altbioinf",2013-07-03,12
+"313","352463272395546624",2013-07-03 12:26:00,"cwvhogue","FORMATDN - create a Blast compatible database from input FASTA files stored at /dev/null #altbioinf",2013-07-03,12
+"314","352463396333031424",2013-07-03 12:26:00,"homolog_us","EWAN - a software tool to prepare cutting-edge press release for your accepted paper #altbioinf",2013-07-03,12
+"315","352463514591432704",2013-07-03 12:27:00,"iddux","@BioDataGanache I thought that was S #altbioinf",2013-07-03,12
+"316","352463951918931968",2013-07-03 12:28:00,"iddux","RT @banderso: LOL, RT @kbradnam: FASTEH: new sequence file format for Canadians #altbioinf",2013-07-03,12
+"317","352464163282489344",2013-07-03 12:29:00,"cwvhogue","Cn0D - command line version of Cn3D. #altbioinf",2013-07-03,12
+"318","352464247315374080",2013-07-03 12:29:00,"BioDataGanache","@iddux Right! R+ is the equivalent of a book that's made into a movie then ""novelized"" back into a book #altbioinf",2013-07-03,12
+"319","352464598349266944",2013-07-03 12:31:00,"sebhtml","RT @banderso: LOL, RT @kbradnam: FASTEH: new sequence file format for Canadians #altbioinf",2013-07-03,12
+"320","352464620172226560",2013-07-03 12:31:00,"srihari176","RT @pathogenomenick: n00bler: Assembler which takes input in Microsoft Word format #altbioinf",2013-07-03,12
+"321","352464970467909632",2013-07-03 12:32:00,"srihari176","RT @bioinfosm: LOL!! RT @marc_rr Modest Organism Databases: for species which don't dare become model organisms #altbioinf",2013-07-03,12
+"322","352465128085655552",2013-07-03 12:33:00,"srihari176","RT @froggleston: Celery: vegetable genome assembler #altbioinf",2013-07-03,12
+"323","352465565996154880",2013-07-03 12:35:00,"iddux","CURDEROY: a nextgen assembler developed in the 70's when there was no need for nextgen assembly. Project was never funded. #altbioinf",2013-07-03,12
+"324","352465844749606912",2013-07-03 12:36:00,"naupakaz","RT @genetics_blog: DIIME: microbial community analysis on a budget #altbioinf",2013-07-03,12
+"325","352465908947623936",2013-07-03 12:36:00,"naupakaz","RT @pathogenomenick: n00bler: Assembler which takes input in Microsoft Word format #altbioinf",2013-07-03,12
+"326","352466392680902656",2013-07-03 12:38:00,"iddux","RELIEF: gut microbiome analysis tool suite. #altbioinf",2013-07-03,12
+"327","352467262554378240",2013-07-03 12:41:00,"iddux","HOUSE: a personal genomics tool informing the patient that it's not lupus. #altbioinf",2013-07-03,12
+"328","352467553622298624",2013-07-03 12:43:00,"michaelaye3f","GeeBrowse: a genome browser tool that causes excitement when all of the tracks finally finish loading #altbioinf",2013-07-03,12
+"329","352467736699473920",2013-07-03 12:43:00,"srihari176","RT @BioMickWatson: The NRA: a bioinformatics repository for short rifles #altbioinf",2013-07-03,12
+"330","352468485454041088",2013-07-03 12:46:00,"homolog_us","RT @banderso: LOL, RT @kbradnam: FASTEH: new sequence file format for Canadians #altbioinf",2013-07-03,12
+"331","352468743525376000",2013-07-03 12:47:00,"rbuels","RT @banderso: LOL, RT @kbradnam: FASTEH: new sequence file format for Canadians #altbioinf",2013-07-03,12
+"332","352468773246218240",2013-07-03 12:47:00,"HigginsDes","RT @kbradnam: CLUSTALLWs: program that only aligns tryptophan characters #altbioinf",2013-07-03,12
+"333","352468831865802752",2013-07-03 12:48:00,"genetics_blog","Universe: an installation management system for your Galaxy workflow management system installations #altbioinf",2013-07-03,12
+"334","352469409257889792",2013-07-03 12:50:00,"davelunt","RT @gedankenstuecke: PUML: Repeatedly punches your data sets until they finally confess to have been under positive selection. #altbioinf",2013-07-03,12
+"335","352471365447712768",2013-07-03 12:58:00,"HigginsDes","Slowalign: same algorithm as other aligners but slowed down to make it look more accurate #altbioinf",2013-07-03,12
+"336","352471723666452480",2013-07-03 12:59:00,"HigginsDes","Turbo_Clustal: clustal with a ""Turbo"" button which flashes when pressed but does nothing else #altbioinf",2013-07-03,12
+"337","352471931037040640",2013-07-03 13:00:00,"jrossibarra","RT @gedankenstuecke: PUML: Repeatedly punches your data sets until they finally confess to have been under positive selection. #altbioinf",2013-07-03,13
+"338","352472105260036096",2013-07-03 13:01:00,"jamesdotcuff","the #altbioinf hash tag is epic! some great ones by @HigginsDes  https://twitter.com/search/realtime?q=%23altbioinf&src=hash",2013-07-03,13
+"339","352472570865528832",2013-07-03 13:03:00,"srihari176","AwSNAP: A splice-mapper that crashes unexpectedly #altbioinf",2013-07-03,13
+"340","352472644844650496",2013-07-03 13:03:00,"JohnMulley","FASTMeh: special file format for all those housekeeping genes found in RNAseq experiments #altbioinf",2013-07-03,13
+"341","352472903075377152",2013-07-03 13:04:00,"HigginsDes","Clustal XXX: search for rude words in amino acid sequences #altbioinf",2013-07-03,13
+"342","352473076669231104",2013-07-03 13:05:00,"evolvability","RT @nextgenseek: FORMATools A new tool to generate yet another bioinformatics format easily. #altbioinf",2013-07-03,13
+"343","352473394291277824",2013-07-03 13:06:00,"cwvhogue","HARMM: molecular dynamics with an unforgiving potential function. #altbioinf",2013-07-03,13
+"344","352474405961596928",2013-07-03 13:10:00,"HigginsDes","@jamesdotcuff have not laughed so much at tweets in ages #altbioinf",2013-07-03,13
+"345","352474470742622208",2013-07-03 13:10:00,"ETCSimulation7","GeeBrowse: a genome browser tool that causes excitement when all of the tracks finally finish loading #altbioinf",2013-07-03,13
+"346","352475704161603584",2013-07-03 13:15:00,"amrojasmendoza","RT @HigginsDes: Clustal XXX: search for rude words in amino acid sequences #altbioinf",2013-07-03,13
+"347","352475758003879936",2013-07-03 13:15:00,"amrojasmendoza","RT @HigginsDes: Turbo_Clustal: clustal with a ""Turbo"" button which flashes when pressed but does nothing else #altbioinf",2013-07-03,13
+"348","352475794431410176",2013-07-03 13:15:00,"amrojasmendoza","RT @HigginsDes: Slowalign: same algorithm as other aligners but slowed down to make it look more accurate #altbioinf",2013-07-03,13
+"349","352476023775952896",2013-07-03 13:16:00,"amrojasmendoza","RT @kbradnam: CLUSTALLWs: program that only aligns tryptophan characters #altbioinf",2013-07-03,13
+"350","352476170840846336",2013-07-03 13:17:00,"amrojasmendoza","RT @iddux: HOUSE: a personal genomics tool informing the patient that it's not lupus. #altbioinf",2013-07-03,13
+"351","352476381160022016",2013-07-03 13:18:00,"amrojasmendoza","RT @banderso: LOL, RT @kbradnam: FASTEH: new sequence file format for Canadians #altbioinf",2013-07-03,13
+"352","352478357079855104",2013-07-03 13:26:00,"banderso","RT @HigginsDes: Clustal XXX: search for rude words in amino acid sequences #altbioinf",2013-07-03,13
+"353","352478832751673344",2013-07-03 13:27:00,"banderso","Hahaha, oh man. If you're not following #altbioinf you need to: https://twitter.com/search/realtime?q=%23altbioinf&src=hash",2013-07-03,13
+"354","352480316759343104",2013-07-03 13:33:00,"klmr","RT @homolog_us: EWAN - a software tool to prepare cutting-edge press release for your accepted paper #altbioinf",2013-07-03,13
+"355","352481703320764416",2013-07-03 13:39:00,"morgantaschuk","RT @gedankenstuecke: PUML: Repeatedly punches your data sets until they finally confess to have been under positive selection. #altbioinf",2013-07-03,13
+"356","352481819653971968",2013-07-03 13:39:00,"PoksDivinaPHL_","GeeBrowse: a genome browser tool that causes excitement when all of the tracks finally finish loading #altbioinf",2013-07-03,13
+"357","352481901979770880",2013-07-03 13:40:00,"morgantaschuk","RT @nextgenseek: FORMATools A new tool to generate yet another bioinformatics format easily. #altbioinf",2013-07-03,13
+"358","352483233230893056",2013-07-03 13:45:00,"homolog_us","For Bioinformatics Humor, Follow Twitter Hashtag #altbioinf (http://www.homolog.us/blogs/blog/2013/07/03/for-bioinformatics-humor-follow-twitter-hashtag-altbioinf/)",2013-07-03,13
+"359","352483890155356160",2013-07-03 13:48:00,"khedkarsupriya","RT @HigginsDes: Clustal XXX: search for rude words in amino acid sequences #altbioinf",2013-07-03,13
+"360","352484098796826624",2013-07-03 13:48:00,"pedrobeltrao","RT @pathogenomenick: n00bler: Assembler which takes input in Microsoft Word format #altbioinf",2013-07-03,13
+"361","352484561566969856",2013-07-03 13:50:00,"bioinfosm","another gem in the thread https://twitter.com/search/realtime?q=%23altbioinf&src=hash! RT @HigginsDes Clustal XXX: search for rude words in amino acid sequences #altbioinf",2013-07-03,13
+"362","352484708518600704",2013-07-03 13:51:00,"kbradnam","RT @homolog_us: For Bioinformatics Humor, Follow Twitter Hashtag #altbioinf (http://www.homolog.us/blogs/blog/2013/07/03/for-bioinformatics-humor-follow-twitter-hashtag-altbioinf/)",2013-07-03,13
+"363","352485145200164864",2013-07-03 13:53:00,"sebhtml","RT @homolog_us: For Bioinformatics Humor, Follow Twitter Hashtag #altbioinf (http://www.homolog.us/blogs/blog/2013/07/03/for-bioinformatics-humor-follow-twitter-hashtag-altbioinf/)",2013-07-03,13
+"364","352485192423845888",2013-07-03 13:53:00,"JamesMeadow","Ha! RT @homolog_us: For Bioinformatics Humor, Follow Twitter Hashtag #altbioinf (http://www.homolog.us/blogs/blog/2013/07/03/for-bioinformatics-humor-follow-twitter-hashtag-altbioinf/)",2013-07-03,13
+"365","352485196836249600",2013-07-03 13:53:00,"bioinfosm","EyeGiVee: Special glasses to allow tear-free staring at IGV for hours!! #altbioinf #NGS #bioinformatics",2013-07-03,13
+"366","352485284941799424",2013-07-03 13:53:00,"sebhtml","@nextgenseek @evolvability this is the best so far #altbioinf",2013-07-03,13
+"367","352485600143745024",2013-07-03 13:54:00,"evolvability","@sebhtml @nextgenseek funny because its true: http://xkcd.com/927/ #altbioinf",2013-07-03,13
+"368","352485624034500608",2013-07-03 13:54:00,"bioinfosm","seriously :D!!! RT @lexnederbragt GWASH, cleaning up genomic dark matter #altbioinf",2013-07-03,13
+"369","352485642044833792",2013-07-03 13:55:00,"pedrobeltrao","NARsub - turns a text file into a ""database"" and prints a pdf description of headers for submission to the database issue #altbioinf",2013-07-03,13
+"370","352487187591348224",2013-07-03 14:01:00,"bioinfosm","How could we forget CRAPseq: Sequences the crap out of anything!! Also available in #metagenome version #altbioinf #NGS",2013-07-03,14
+"371","352487535357870080",2013-07-03 14:02:00,"bishoyh","RT @bioinfosm: How could we forget CRAPseq: Sequences the crap out of anything!! Also available in #metagenome version #altbioinf #NGS",2013-07-03,14
+"372","352489893177466880",2013-07-03 14:11:00,"sebhtml","RT @evolvability: @sebhtml @nextgenseek funny because its true: http://xkcd.com/927/ #altbioinf",2013-07-03,14
+"373","352490441578528768",2013-07-03 14:14:00,"martibartfast","t'blastn: blastn for Lancastrians #altbioinf",2013-07-03,14
+"374","352491460479819776",2013-07-03 14:18:00,"morgantaschuk","RT @HigginsDes Clustal XXX: search for rude words in amino acid sequences #altbioinf",2013-07-03,14
+"375","352491825472348160",2013-07-03 14:19:00,"lexnederbragt","Q - successor to R #altbioinf",2013-07-03,14
+"376","352491998864883712",2013-07-03 14:20:00,"pedrobeltrao","RT @CamLBerthelot: Peakpster: it's not a mainstream peak caller, you probably never heard of it. #altbioinf",2013-07-03,14
+"377","352492301152563200",2013-07-03 14:21:00,"lexnederbragt","Enterprise - a Picard led effort to explore Galaxy instances #altbioinf",2013-07-03,14
+"378","352492710868942848",2013-07-03 14:23:00,"lexnederbragt","IPerl #altbioinf",2013-07-03,14
+"379","352493065149235200",2013-07-03 14:24:00,"smllmp","What is the #altbioinf tag?",2013-07-03,14
+"380","352494547986694144",2013-07-03 14:30:00,"LilithElina","RT @BioMickWatson: NWA: plays hip-hop instead of running your alignments #altbioinf",2013-07-03,14
+"381","352495206823755776",2013-07-03 14:33:00,"morgantaschuk","RT @lexnederbragt: Enterprise - a Picard led effort to explore Galaxy instances #altbioinf",2013-07-03,14
+"382","352496715259060224",2013-07-03 14:39:00,"DanGraur","Bioinformatics Humor #altbioinf My fav: EWAN - a package for conjuring cutting-edge press releases from thin air. http://www.homolog.us/blogs/blog/2013/07/03/for-bioinformatics-humor-follow-twitter-hashtag-altbioinf/",2013-07-03,14
+"383","352499411206676480",2013-07-03 14:49:00,"FilipHusnik","RT @homolog_us: For Bioinformatics Humor, Follow Twitter Hashtag #altbioinf (http://www.homolog.us/blogs/blog/2013/07/03/for-bioinformatics-humor-follow-twitter-hashtag-altbioinf/)",2013-07-03,14
+"384","352500024434888704",2013-07-03 14:52:00,"pvanheus","@imogenwright definitely need more  #altbioinf wisdom at @SANBI_SA",2013-07-03,14
+"385","352500177002692608",2013-07-03 14:52:00,"antonio_marco_c","#altbioinf ANBVO_PAUP 4.0: A Non-Beta Version of PAUP 4.0. (will it ever exist?)",2013-07-03,14
+"386","352501171753205760",2013-07-03 14:56:00,"gaurav_phylolab","PyMole: Visualization tool for undercover spy molecules. #altbioinf",2013-07-03,14
+"387","352501562884620288",2013-07-03 14:58:00,"gaurav_phylolab","LHC-Dock: Ligand Protein Docking using particle accelerators #altbioinf",2013-07-03,14
+"388","352502251723558912",2013-07-03 15:01:00,"subsurface_life","RT @lexnederbragt: Q - successor to R #altbioinf",2013-07-03,15
+"389","352502282417475584",2013-07-03 15:01:00,"subsurface_life","RT @morgantaschuk: RT @HigginsDes Clustal XXX: search for rude words in amino acid sequences #altbioinf",2013-07-03,15
+"390","352502383563120640",2013-07-03 15:01:00,"subsurface_life","RT @JohnMulley: FASTMeh: special file format for all those housekeeping genes found in RNAseq experiments #altbioinf",2013-07-03,15
+"391","352507266278240256",2013-07-03 15:20:00,"gaurav_phylolab","BLOSUM-i : Substitution matrix for alignment of proteins that share imaginary homology. #altbioinf",2013-07-03,15
+"392","352507384142381056",2013-07-03 15:21:00,"OmicsOmicsBlog","RT @lexnederbragt: Enterprise - a Picard led effort to explore Galaxy instances #altbioinf",2013-07-03,15
+"393","352507442241863680",2013-07-03 15:21:00,"pjacock","RT @HigginsDes: Clustal XXX: search for rude words in amino acid sequences #altbioinf",2013-07-03,15
+"394","352507933499719680",2013-07-03 15:23:00,"vsbuffalo","RT @lexnederbragt: Enterprise - a Picard led effort to explore Galaxy instances #altbioinf",2013-07-03,15
+"395","352508126542569472",2013-07-03 15:24:00,"OmicsOmicsBlog","GLAM - format for storing short read alignment to reference. Much more exciting to look at than SAM #altbioinf",2013-07-03,15
+"396","352508563337392128",2013-07-03 15:26:00,"OmicsOmicsBlog","MIRAge - generates beautiful, but unreal, assembly from any data #altbioinf",2013-07-03,15
+"397","352508727254978560",2013-07-03 15:26:00,"Nod_of_Science","RT @OmicsOmicsBlog: GLAM - format for storing short read alignment to reference. Much more exciting to look at than SAM #altbioinf",2013-07-03,15
+"398","352509527595290624",2013-07-03 15:29:00,"mjmrsc",";) RT @marc_rr The BOBO foundry: for ontologies which are well established but keep their early bohème style #altbioinf",2013-07-03,15
+"399","352509563318177792",2013-07-03 15:30:00,"OmicsOmicsBlog","BioCOBOL #altbioinf",2013-07-03,15
+"400","352510011102085120",2013-07-03 15:31:00,"vsbuffalo","CLCplaybench, the easiest to use assembler and aligner. #altbioinf  #Imgoingtohidenow http://t.co/8iAjcfjNrV",2013-07-03,15
+"401","352510992342720512",2013-07-03 15:35:00,"vsbuffalo","RT @OmicsOmicsBlog: MIRAge - generates beautiful, but unreal, assembly from any data #altbioinf",2013-07-03,15
+"402","352511714757050368",2013-07-03 15:38:00,"JamesMeadow","Mothur developers already came up with ingenious write.paper command - no bioinformatics required #altbioinf http://www.mothur.org/wiki/Write.paper",2013-07-03,15
+"403","352512194975498240",2013-07-03 15:40:00,"vsbuffalo","BioPearl — turns any crappy coder's script in to a pearl! #altbioinf",2013-07-03,15
+"404","352512687525212160",2013-07-03 15:42:00,"mgollery","RT @OmicsOmicsBlog: GLAM - format for storing short read alignment to reference. Much more exciting to look at than SAM #altbioinf",2013-07-03,15
+"405","352512709478187008",2013-07-03 15:42:00,"mgollery","RT @OmicsOmicsBlog: MIRAge - generates beautiful, but unreal, assembly from any data #altbioinf",2013-07-03,15
+"406","352512770912165888",2013-07-03 15:42:00,"homolog_us","GLAM - Name of a bioinfo tool, which gets its purely bioinfo paper accepted in Science or Nature #altbioinf",2013-07-03,15
+"407","352512835126956032",2013-07-03 15:43:00,"mgollery","RT @pathogenomenick: n00bler: Assembler which takes input in Microsoft Word format #altbioinf",2013-07-03,15
+"408","352512905511567360",2013-07-03 15:43:00,"mgollery","RT @HigginsDes: Clustal XXX: search for rude words in amino acid sequences #altbioinf",2013-07-03,15
+"409","352513117068075008",2013-07-03 15:44:00,"mgollery","RT @BioMickWatson: Matelab: software environment to help mathematical biologists find friends #altbioinf",2013-07-03,15
+"410","352513499903176704",2013-07-03 15:45:00,"vsbuffalo","RT @gedankenstuecke: PUML: Repeatedly punches your data sets until they finally confess to have been under positive selection. #altbioinf",2013-07-03,15
+"411","352513696557314048",2013-07-03 15:46:00,"plaza_genomics","RT @homolog_us: EWAN - a software tool to prepare cutting-edge press release for your accepted paper #altbioinf",2013-07-03,15
+"412","352514134069358592",2013-07-03 15:48:00,"plaza_genomics","RT @BioMickWatson: BioOneDuctor: repository of R packages that have only ever been used by one person, the author #altbioinf",2013-07-03,15
+"413","352514275392237568",2013-07-03 15:48:00,"thatdnaguy","RT @BioMickWatson: BioOneDuctor: repository of R packages that have only ever been used by one person, the author #altbioinf",2013-07-03,15
+"414","352514358900834304",2013-07-03 15:49:00,"chrisfall","RT @vsbuffalo: BioPearl — turns any crappy coder's script in to a pearl! #altbioinf",2013-07-03,15
+"415","352514701520945152",2013-07-03 15:50:00,"Janis3_14159","RT @HigginsDes: Clustal XXX: search for rude words in amino acid sequences #altbioinf",2013-07-03,15
+"416","352515163846492160",2013-07-03 15:52:00,"Janis3_14159","RT @yokofakun: NAH Annual Issue of non-downloadable Databases without API & only used by their authors #altbioinf",2013-07-03,15
+"417","352515212877897728",2013-07-03 15:52:00,"thatdnaguy","RT @yokofakun: NAH Annual Issue of non-downloadable Databases without API & only used by their authors #altbioinf",2013-07-03,15
+"418","352515540109099008",2013-07-03 15:53:00,"chadn737","RT @BioMickWatson: After my shamtools tweet yesterday, I'm going to start a new hashtag: #altbioinf",2013-07-03,15
+"419","352515734104059904",2013-07-03 15:54:00,"neilhall_uk","RT @HigginsDes: Clustal XXX: search for rude words in amino acid sequences #altbioinf",2013-07-03,15
+"420","352519843251109888",2013-07-03 16:10:00,"SteveLaurie42","RT @HigginsDes: Clustal XXX: search for rude words in amino acid sequences #altbioinf - wonderful!",2013-07-03,16
+"421","352519884493688832",2013-07-03 16:11:00,"icases","RT @BioDataGanache: Side-Escape: Random network figure generator helping you to dodge pesky issues like biological relevance #altbioinf",2013-07-03,16
+"422","352520403090014208",2013-07-03 16:13:00,"IanGoodhead","ventR: Scaffolding algorithm that uses deposited public data to close gaps and extend contigs. #altbioinf",2013-07-03,16
+"423","352520692773818368",2013-07-03 16:14:00,"armish","RT @ewanbirney: #altbioinf is great, if a little close to the bone sometimes...",2013-07-03,16
+"424","352522936160223232",2013-07-03 16:23:00,"Kobbler1234","RT @HigginsDes: Clustal XXX: search for rude words in amino acid sequences #altbioinf",2013-07-03,16
+"425","352526287178444800",2013-07-03 16:36:00,"chadn737","MONOCLE: genome browser that allows you to view only half of the genome #altbioinf",2013-07-03,16
+"426","352527056749346816",2013-07-03 16:39:00,"cwhelan","PreciSV: SV caller with 100% specificity; SenstiVe: SV caller with 100% recall. #altbioinf",2013-07-03,16
+"427","352527092790996992",2013-07-03 16:39:00,"nextgenseek","#ScAMTools: The tool to find all kinds of ""interesting"" variants  #altbioinf  #toolate?",2013-07-03,16
+"428","352527665850368000",2013-07-03 16:41:00,"chadn737","$ samtools view --Emeril_Lagasse in.bam (hidden samtools view argument where Emeril Lagasse appears and just yells BAM) #altbioinf",2013-07-03,16
+"429","352527952535236608",2013-07-03 16:43:00,"aaronquinlan","#GATummmmK: The single sample SNP caller that makes no calls.  Correct 99.9% of the time. #altbioinf",2013-07-03,16
+"430","352529761496600576",2013-07-03 16:50:00,"BioDataGanache","Ohhhh-SNAP : Method to predict effect of non-synonymous mutations on fashion sense baby! #altbioinf",2013-07-03,16
+"431","352529918959161344",2013-07-03 16:50:00,"BioDataGanache","RT @iddux: HOUSE: a personal genomics tool informing the patient that it's not lupus. #altbioinf",2013-07-03,16
+"432","352532959485640704",2013-07-03 17:03:00,"pjvolders","RT @BioMickWatson: BioOneDuctor: repository of R packages that have only ever been used by one person, the author #altbioinf",2013-07-03,17
+"433","352535204327469056",2013-07-03 17:11:00,"bdelloid","RT @banderso: LOL, RT @kbradnam: FASTEH: new sequence file format for Canadians #altbioinf",2013-07-03,17
+"434","352535494762045440",2013-07-03 17:13:00,"bdelloid","RT @gedankenstuecke: PUML: Repeatedly punches your data sets until they finally confess to have been under positive selection. #altbioinf",2013-07-03,17
+"435","352536173182320640",2013-07-03 17:15:00,"Scalene","RT @OmicsOmicsBlog: MIRAge - generates beautiful, but unreal, assembly from any data #altbioinf",2013-07-03,17
+"436","352536329525002240",2013-07-03 17:16:00,"chadn737","SLOWA and SLOWQ, more laid back alternatives to FASTA and FASTQ #altbioinf",2013-07-03,17
+"437","352538226529009664",2013-07-03 17:23:00,"Lab_Journal","For Bioinformatics Humor, Follow Twitter Hashtag #altbioinf http://www.homolog.us/blogs/blog/2013/07/03/for-bioinformatics-humor-follow-twitter-hashtag-altbioinf/",2013-07-03,17
+"438","352540762015145984",2013-07-03 17:34:00,"martibartfast","Big MAQ: long read version of MAQ #altbioinf",2013-07-03,17
+"439","352541000109010944",2013-07-03 17:34:00,"adamauton","RT @aaronquinlan: #GATummmmK: The single sample SNP caller that makes no calls.  Correct 99.9% of the time. #altbioinf",2013-07-03,17
+"440","352541323586306048",2013-07-03 17:36:00,"laxvid","SCOPUS Alignment validator that is sometimes influenced by GOPs and intends #altbioinf",2013-07-03,17
+"441","352542844042485760",2013-07-03 17:42:00,"bioinfosm","thats it #altbioinf folks <b> iPERL </b> is here! works with iPhone iPad and iGenome!!",2013-07-03,17
+"442","352544724902612992",2013-07-03 17:49:00,"mdperry","RT @IanGoodhead: ventR: Scaffolding algorithm that uses deposited public data to close gaps and extend contigs. #altbioinf",2013-07-03,17
+"443","352544953613811712",2013-07-03 17:50:00,"mdperry","RT @lexnederbragt: Enterprise - a Picard led effort to explore Galaxy instances #altbioinf",2013-07-03,17
+"444","352549374754168832",2013-07-03 18:08:00,"Janis3_14159","RT @BioDataGanache: Side-Escape: Random network figure generator helping you to dodge pesky issues like biological relevance #altbioinf",2013-07-03,18
+"445","352550726192476160",2013-07-03 18:13:00,"koadman","@BioMickWatson did you hear? Ez-Taxon-E from NWA faked his death and now does 16S analysis Gangnam style: http://eztaxon-e.ezbiocloud.net/ #altbioinf",2013-07-03,18
+"446","352551059035664384",2013-07-03 18:14:00,"icases","RT @HigginsDes: Clustal XXX: search for rude words in amino acid sequences #altbioinf",2013-07-03,18
+"447","352551286459203584",2013-07-03 18:15:00,"icases","RT @iddux: RELIEF: gut microbiome analysis tool suite. #altbioinf",2013-07-03,18
+"448","352555189619802112",2013-07-03 18:31:00,"icases","RT @nwe23: LESTA, like fasta but uses < rather than > to avoid accidental use of ""grep > seq.fasta"" deleting all your sequences #altbioinf",2013-07-03,18
+"449","352555304816361472",2013-07-03 18:31:00,"DavidBush10","RT @aaronquinlan: #GATummmmK: The single sample SNP caller that makes no calls.  Correct 99.9% of the time. #altbioinf",2013-07-03,18
+"450","352555978681618432",2013-07-03 18:34:00,"Fancy17","RT @pathogenomenick: n00bler: Assembler which takes input in Microsoft Word format #altbioinf",2013-07-03,18
+"451","352558982436630528",2013-07-03 18:46:00,"deannachurch","RT @lexnederbragt: Enterprise - a Picard led effort to explore Galaxy instances #altbioinf",2013-07-03,18
+"452","352559184962785280",2013-07-03 18:47:00,"itteration","@ctitusbrown @jkhedron @BioMickWatson bio mick is da bomb. #altbioinf",2013-07-03,18
+"453","352564338441195520",2013-07-03 19:07:00,"BioinfoTools","If you haven't seen the #altbioinf fun already, here's my introduction to it: http://sciblogs.co.nz/code-for-life/2013/07/04/alternative-bioinformatics/",2013-07-03,19
+"454","352564913438339072",2013-07-03 19:10:00,"wadedismukes","@chadn737 PASTA and PASTQ the much tastier alternatives to FASTA and FASTQ #altbioinf",2013-07-03,19
+"455","352565735786164224",2013-07-03 19:13:00,"srihari176","RT @wadedismukes: @chadn737 PASTA and PASTQ the much tastier alternatives to FASTA and FASTQ #altbioinf",2013-07-03,19
+"456","352568969867173888",2013-07-03 19:26:00,"mdperry","SEQUESTER: a short read aligner where you Email files to your congressman, and their aides align by hand when your funds dry up #altbioinf",2013-07-03,19
+"457","352579214454702080",2013-07-03 20:06:00,"gmodproject","RT @PoksDivinaPHL_: GeeBrowse: a genome browser tool that causes excitement when all of the tracks finally finish loading #altbioinf",2013-07-03,20
+"458","352594938506125312",2013-07-03 21:09:00,"theoneamit","RT @cwvhogue: x!random for mass spec analysis of gooey samples of the metaproteome. #altbioinf",2013-07-03,21
+"459","352597534247620608",2013-07-03 21:19:00,"byuhobbes","RT @aaronquinlan: #GATummmmK: The single sample SNP caller that makes no calls.  Correct 99.9% of the time. #altbioinf",2013-07-03,21
+"460","352612610623021056",2013-07-03 22:19:00,"nextgenseek","Bioinformatics Tales in Tweets #altbioinf  #AltBioInf http://sfy.co/cMHO #storify #altbioinf #iluvr",2013-07-03,22
+"461","352612611776454656",2013-07-03 22:19:00,"nextgenseek","@antonio_marco_c You've been quoted in my #Storify story ""Bioinformatics Tales in Tweets #altbioinf  #AltBioInf"" http://sfy.co/cMHO",2013-07-03,22
+"462","352612611986161664",2013-07-03 22:19:00,"nextgenseek","@pvanheus @smllmp You've been quoted in my #Storify story ""Bioinformatics Tales in Tweets #altbioinf  #AltBioInf"" http://sfy.co/cMHO",2013-07-03,22
+"463","352612612095221760",2013-07-03 22:19:00,"nextgenseek","@gaurav_phylolab You've been quoted in my #Storify story ""Bioinformatics Tales in Tweets #altbioinf  #AltBioInf"" http://sfy.co/cMHO",2013-07-03,22
+"464","352620303119167488",2013-07-03 22:50:00,"LilithElina","RT @DunhamReal: Chaos: Visualisation of hiC data in Circos #altbioinf",2013-07-03,22
+"465","352628566820794368",2013-07-03 23:22:00,"sleight82","RT @BioMickWatson: StopThat: useful tool that suggests an alternative spliced aligner every time someone tries to use TopHat #altbioinf",2013-07-03,23
+"466","352645097055199232",2013-07-04 00:28:00,"JChrisPires","RT @chadn737: SLOWA and SLOWQ, more laid back alternatives to FASTA and FASTQ #altbioinf",2013-07-04,0
+"467","352645192685326336",2013-07-04 00:29:00,"JChrisPires","RT @BioMickWatson: After my shamtools tweet yesterday, I'm going to start a new hashtag: #altbioinf",2013-07-04,0
+"468","352645225853886464",2013-07-04 00:29:00,"JChrisPires","RT @JeanFred: @BioMickWatson EMBOSSy: Every time you try to run something, it answers you that you should do it another way. #altbioinf",2013-07-04,0
+"469","352645267503321088",2013-07-04 00:29:00,"JChrisPires","RT @JeanFred: .@BioMickWatson Rainbowtie: Ultrafast short read aligner against a continuous spectrum of colours. #Altbioinf",2013-07-04,0
+"470","352645330795380736",2013-07-04 00:29:00,"JChrisPires","RT @JeanFred: .@BioMickWatson MUMmYer: sequence aligner for samples of long-dead humans. #Altbioinf",2013-07-04,0
+"471","352645350915444736",2013-07-04 00:29:00,"JChrisPires","RT @JeanFred: .@BioMickWatson Pufflinks − Transcript assembly for smokers RNAseq. #Altbioinf",2013-07-04,0
+"472","352645752230645760",2013-07-04 00:31:00,"theoneamit","RT @kbradnam: CLUSTALLWs: program that only aligns tryptophan characters #altbioinf",2013-07-04,0
+"473","352645899299725312",2013-07-04 00:31:00,"theoneamit","RT @HigginsDes: Slowalign: same algorithm as other aligners but slowed down to make it look more accurate #altbioinf",2013-07-04,0
+"474","352646009861586944",2013-07-04 00:32:00,"theoneamit","RT @HigginsDes: Turbo_Clustal: clustal with a ""Turbo"" button which flashes when pressed but does nothing else #altbioinf",2013-07-04,0
+"475","352654311253221376",2013-07-04 01:05:00,"chadn737","RT @lexnederbragt: UNCODE, junk DNA detector #altbioinf",2013-07-04,1
+"476","352673906827603968",2013-07-04 02:23:00,"melletang","RT @froggleston: BLAST'N: Like BLASTN, but way more funky, yo. #altbioinf",2013-07-04,2
+"477","352675789843607552",2013-07-04 02:30:00,"pascale_gaudet","RT @homolog_us: ALTBIOINF, a twitter-enabled crowdsourced tool for cutting-edge bioinformatics #altbioinf",2013-07-04,2
+"478","352680417356292096",2013-07-04 02:48:00,"cntalavera","RT @aaronquinlan: #GATummmmK: The single sample SNP caller that makes no calls.  Correct 99.9% of the time. #altbioinf",2013-07-04,2
+"479","352689111733248000",2013-07-04 03:23:00,"BioMickWatson","The entire altbioinf stream http://sfy.co/qAC0 #storify #altbioinf #storify",2013-07-04,3
+"480","352690860900614144",2013-07-04 03:30:00,"BioDataGanache","For reals? I want... MT @JamesMeadow Mothur came up with a write.paper command - no bioinformatics req #altbioinf http://www.mothur.org/wiki/Write.paper …",2013-07-04,3
+"481","352692567588085760",2013-07-04 03:37:00,"BioDataGanache","How is it diff than the reg NAR db issue? MT @yokofakun NAH Ann Issue of non-downloadable DBs w/o API only used by their authors #altbioinf",2013-07-04,3
+"482","352692910455664640",2013-07-04 03:38:00,"LilithElina","RT @vsbuffalo: CLCplaybench, the easiest to use assembler and aligner. #altbioinf  #Imgoingtohidenow http://t.co/8iAjcfjNrV",2013-07-04,3
+"483","352692928386318336",2013-07-04 03:38:00,"xypan1232","RT @genetics_blog: TRANSFRACK: a transcription factor binding site database that pollutes your town's groundwater #altbioinf",2013-07-04,3
+"484","352693181877452800",2013-07-04 03:39:00,"drbrainbugz","RT @BioMickWatson: The entire altbioinf stream http://sfy.co/qAC0 #storify #altbioinf #storify",2013-07-04,3
+"485","352693274215059456",2013-07-04 03:40:00,"LilithElina","RT @froggleston: @peri4n @BioMickWatson ABySS: the thing you're staring into when you realise that you bought a SOLiD #altbioinf #ohsnap",2013-07-04,3
+"486","352697695900676096",2013-07-04 03:57:00,"theoneamit","RT @ETCSimulation7: GeeBrowse: a genome browser tool that causes excitement when all of the tracks finally finish loading #altbioinf",2013-07-04,3
+"487","352698390494187520",2013-07-04 04:00:00,"theoneamit","@PalGajinder Have u checked #altbioinf ? That's a welcome-to-twitter gift :) Enjoy ! See storify here http://storify.com/BioMickWatson/the-entire-altbioinf-stream",2013-07-04,4
+"488","352701511928786944",2013-07-04 04:12:00,"sjcockell","RT @BioMickWatson: The entire altbioinf stream http://sfy.co/qAC0 #storify #altbioinf #storify",2013-07-04,4
+"489","352702465734483968",2013-07-04 04:16:00,"theoneamit","RT @BioDataGanache: For reals? I want... MT @JamesMeadow Mothur came up with a write.paper command - no bioinformatics req #altbioinf http://t.co/5zrLD5M6P1 …",2013-07-04,4
+"490","352703005516242944",2013-07-04 04:18:00,"theoneamit","Don't tell me this isn't handy ! We all crave for this... http://www.mothur.org/wiki/Write.paper #altbioinf",2013-07-04,4
+"491","352712496940978176",2013-07-04 04:56:00,"MagnusManske","404 sequencing - DNA not found #altbioinf",2013-07-04,4
+"492","352715698117689344",2013-07-04 05:09:00,"MattBashton","VaPorSeq: mythical all powerful NGS hardware capable of sequencing unicorns for under $100 #altbioinf",2013-07-04,5
+"493","352716890256322560",2013-07-04 05:13:00,"MattBashton","EBAN: European Bioinformatics Administration Network - creates endless management  meetings in fancy EU destinations. #FP7 #altbioinf",2013-07-04,5
+"494","352718357004435456",2013-07-04 05:19:00,"Bioinfomatic","RT @biomickwatson: The entire altbioinf stream http://sfy.co/qAC0 #storify #altbioinf #storify",2013-07-04,5
+"495","352718471592820736",2013-07-04 05:20:00,"marc_rr","RT @MagnusManske: 404 sequencing - DNA not found #altbioinf",2013-07-04,5
+"496","352719017695387648",2013-07-04 05:22:00,"MattBashton","PITA-ALN Pain In The Arse Aligner regularly implements new features that break any downstream analysis pipeline on a weekly basis #altbioinf",2013-07-04,5
+"497","352763119359098880",2013-07-04 08:17:00,"laxvid","@BioMickWatson even Napoleon appreciated humor and I hope the currents bioinformatics Czars are better #altbioinf",2013-07-04,8
+"498","352767463127134208",2013-07-04 08:34:00,"ecuadorthree","RT @HigginsDes: Clustal XXX: search for rude words in amino acid sequences #altbioinf",2013-07-04,8
